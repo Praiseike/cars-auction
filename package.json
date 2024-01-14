@@ -2,16 +2,8 @@
   "name": "car-auction-react",
   "version": "1.0.0",
   "private": true,
-  "author": "prettyblueberry",
+  "author": "praiseike123@gmail.com",
   "description": "A simple landing page of car auction site.(React, MUI)",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prettyblueberry/car-auction-react.git"
-  },
-  "engines": {
-    "node": "14 || 15 || 16",
-    "npm": ">=6"
-  },
   "dependencies": {
     "@emotion/cache": "11.4.0",
     "@emotion/react": "11.4.1",
